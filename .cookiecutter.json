@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/home/rayigen85/develop",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Raymond Baruth",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "raymondbaruth@raybit.de",
+  "friendly_name": "Calorie Requirement Calculator",
+  "github_user": "rayigen85",
+  "license": "MIT",
+  "package_name": "calorie_requirement_calculator",
+  "project_name": "calorie-requirement-calculator",
+  "version": "0.1.0"
+}
